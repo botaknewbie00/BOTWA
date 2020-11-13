@@ -13,12 +13,16 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > download termux
 > buka
 > pkg install git
-> pkg install ffmpeg
-> pkg install nodejs
 > apt update && apt upgrade
 > git clone https://github.com/quenbla234/BOTWA
 > cd BOTWA
-> bash install.sh
+> pkg install wget
+> pkg install ffmpeg
+> pkg install nodejs
+> npm i -g cwebp
+> npm i -g ytdl
+> npm i
+> npm i got
 > node index.js
 ```
 
@@ -49,7 +53,7 @@ ket : ✅ : aktif
 
 
 ## THANKS TO
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* [`termux-whatsapp-bot`](https://github.com/quenbla234/BOTWA)
 
 ## DONASI
-* Gopay : 081271699856 Reuz
+* Pulsa : 085700925421
